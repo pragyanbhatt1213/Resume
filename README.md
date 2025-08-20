@@ -1,49 +1,71 @@
-# Pragyan Bhatt – Resume
+# Pragyan Bhatt – Resume  
 
-Welcome to my resume repository! This contains the latest version of my resume along with some basic information about me and my work.
-
-## 📌 About Me
-
-I’m **Pragyan Bhatt**, an aspiring web developer and tech enthusiast currently pursuing a B.Tech in Computer Science from **VIT Bhopal**. I’m passionate about building smart, scalable, and user-focused solutions.
-
-- 📍 Location: Bhopal, Madhya Pradesh, India
-- 🎓 CGPA: 8.66
-- 📧 Email: pragyanntt@gmail.com
-- 📱 Phone: +91 800696528
-- 🔗 [LinkedIn](https://linkedin.com/in/pragyanbhatt99)
-- 🖥️ [GitHub](https://github.com/pragyanbhatt1213)
+Welcome to my resume repository! 🚀  
+This repository contains the **latest version of my resume** along with key information about my education, skills, achievements, and projects.  
 
 ---
 
-## 📥 Download My Resume
+## 📌 About Me  
 
-- 👉 [Click here to view/download PDF](https://github.com/pragyanbhatt1213/resume/raw/main/Resume.pdf)
+I’m **Pragyan Bhatt**, a Computer Science undergraduate at **VIT Bhopal (2023–2027)** with a **CGPA of 8.66**.  
+I’m passionate about **software development, AI/ML, and full-stack engineering**, with experience in building scalable and user-focused applications.  
 
----
-
-## 🛠️ Projects
-
-Here are some of the projects I've worked on:
-
-### 1. [Crowd-Scanner](https://github.com/pragyanbhatt1213/Crowd-Scanner)
-Real-time crowd detection system using YOLOv8 and night vision. Achieved a 93.1% F1 score in low-light environments.
-
-### 2. [Heritage RAG Bot](https://github.com/pragyanbhatt1213/heritage-rag-bot)
-AI chatbot using RAG + LLaMA, built with LangChain and ChromaDB to answer questions about Indian heritage.
-
-### 3. [Password Generator (React Native)](https://github.com/pragyanbhatt1213/PasswordGenerator)
-A customizable and secure password generator mobile app.
-
-### 4. [Food Order App (UI)](https://github.com/pragyanbhatt1213/Food_Order_App)
-UI for a food ordering app using React Native, with filtering and category browsing.
+- 📍 Location: Bhopal, Madhya Pradesh, India  
+- 🎓 Education: B.Tech in Computer Science (VIT Bhopal, 2023–2027)  
+- 📧 Email: [pragyanntt@gmail.com](mailto:pragyanntt@gmail.com)  
+- 📱 Phone: +91 800696528  
+- 🔗 [LinkedIn](https://linkedin.com/in/pragyanbhatt99)  
+- 🖥️ [GitHub](https://github.com/pragyanbhatt1213)  
 
 ---
 
-## 💻 Skills
+## 📥 Resume  
 
-- **Languages & Tools:** Python, C++, JavaScript, HTML, CSS, MySQL, React, React Native, Android Studio
-- **Soft Skills:** Teamwork, Communication, Problem-Solving
+👉 [Click here to view/download the latest PDF](https://github.com/pragyanbhatt1213/resume/raw/main/Resume.pdf)  
 
 ---
 
-Thanks for visiting! Feel free to fork, star ⭐, or reach out to me.
+## 🛠️ Projects  
+
+Here are a few notable projects I’ve worked on:  
+
+### 1. [Crowd-Scanner](https://github.com/pragyanbhatt1213/Crowd-Scanner)  
+Real-time crowd detection system using **YOLOv8** and night vision. Achieved a **93.1% F1 score** in low-light environments.  
+
+### 2. [RAG-Mitra (Heritage AI Bot)](https://github.com/pragyanbhatt1213/heritage-rag-bot)  
+AI chatbot leveraging **RAG + LLaMA** with LangChain and ChromaDB for contextual Q&A about Indian heritage sites.  
+
+### 3. [Password Generator (React Native)](https://github.com/pragyanbhatt1213/PasswordGenerator)  
+A secure and customizable mobile app for generating strong passwords.  
+
+### 4. [Food Order App (UI Prototype)](https://github.com/pragyanbhatt1213/Food_Order_App)  
+A React Native UI prototype for browsing, filtering, and ordering food.  
+
+---
+
+## 💻 Skills  
+
+- **Programming Languages:** C++, Python, JavaScript  
+- **Frameworks & Libraries:** React, React Native, YOLOv8, LangChain, ChromaDB, OpenCV, Tailwind CSS  
+- **Databases & Tools:** MySQL, Supabase, PostgreSQL, Android Studio, Git, GitHub, CUDA/GPU Acceleration  
+- **Core CS Areas:** Data Structures & Algorithms, OOP, DBMS, Operating Systems  
+- **Soft Skills:** Teamwork, Problem-Solving, Communication  
+
+---
+
+## 📈 Achievements  
+
+- Solved **100+ problems on LeetCode**; active on **Codeforces**.  
+- Participated in **5+ hackathons**, gaining hands-on experience in rapid prototyping, collaboration, and real-world problem solving.  
+
+---
+
+## 🌐 Connect With Me  
+
+- 🔗 [LinkedIn](https://linkedin.com/in/pragyanbhatt99)  
+- 🖥️ [GitHub](https://github.com/pragyanbhatt1213)  
+- 📧 [Email Me](mailto:pragyanntt@gmail.com)  
+
+---
+
+⭐ Thanks for visiting! Feel free to **fork this repo, star it, or connect with me** on [LinkedIn](https://linkedin.com/in/pragyanbhatt99).  
