@@ -21,7 +21,7 @@ I’m passionate about **software development, AI/ML, and full-stack engineering
 
 ## 📥 Resume  
 
-👉 [Click here to view/download the latest PDF](https://github.com/pragyanbhatt1213/resume/raw/main/Resume.pdf)  
+👉 [Click here to view/download the latest PDF](https://github.com/pragyanbhatt1213/Resume/blob/main/RESUME.pdf)  
 
 ---
 
